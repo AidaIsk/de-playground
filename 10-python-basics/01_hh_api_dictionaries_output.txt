@@ -1,0 +1,69 @@
+Справочники успешно получены!
+
+🔹 Доступные справочники:
+- resume_access_type
+- vacancy_search_order
+- vacancy_search_fields
+- gender
+- preferred_contact_type
+- travel_time
+- relocation_type
+- business_trip_readiness
+- resume_contacts_site_type
+- employer_type
+- employer_relation
+- negotiations_state
+- applicant_negotiation_status
+- negotiations_participant_type
+- negotiations_order
+- resume_moderation_note
+- vacancy_relation
+- resume_status
+- resume_search_logic
+- resume_search_fields
+- messaging_status
+- employer_active_vacancies_order
+- employer_archived_vacancies_order
+- employer_hidden_vacancies_order
+- applicant_comments_order
+- vacancy_not_prolonged_reason
+- resume_hidden_fields
+- phone_call_status
+- linked_socials
+- vacancy_label
+- experience
+- employment
+- schedule
+- education_level
+- currency
+- vacancy_billing_type
+- applicant_comment_access_type
+- vacancy_cluster
+- driver_license_types
+- language_level
+- working_days
+- working_time_intervals
+- working_time_modes
+- vacancy_type
+- job_search_statuses_applicant
+- job_search_statuses_employer
+- employment_form
+- work_format
+- resume_employment_form
+- resume_work_format
+- working_hours
+- fly_in_fly_out_duration
+- work_schedule_by_days
+- salary_range_mode
+- salary_range_frequency
+- age_restriction
+- resume_search_label
+- resume_search_relocation
+- resume_search_order
+- resume_search_experience_period
+
+
+📘 Содержимое справочника 'vacancy_search_fields':
+name: в названии вакансии
+company_name: в названии компании
+description: в описании вакансии
