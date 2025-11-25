@@ -82,7 +82,7 @@ def fetch_all_items(max_pages: int = 19) -> List[Dict[str, Any]]:
     page = 0
 
     # основной цикл пагинации
-    while page < max_pages:
+    while page <= max_pages:
 
         print(f"Запрашиваю страницу {page}...")
         response_json = fetch_page(page)
