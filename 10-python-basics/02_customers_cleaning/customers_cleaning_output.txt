@@ -1,0 +1,12 @@
+Загружаем данные ...
+Размер исходной таблицы: (100000, 12)
+Первые строки:
+       Customer Id First Name  ...                        Website         Email Domain
+0  ffeCAb7AbcB0f07      Jared  ...     https://www.mccarthy.info/         benjamin.com
+1  b687FfC4F1600eC      Marie  ...       http://www.reynolds.com/           sexton.com
+2  9FF9ACbc69dcF9c     Elijah  ...              https://neal.com/            brown.com
+3  b49edDB1295FF6E     Sheryl  ...  https://www.powell-bryan.com/          barrett.com
+4  3dcCbFEB17CCf2E     Jeremy  ...      https://www.carrillo.com/  jacobs-wallace.info
+
+[5 rows x 12 columns]
+Данные сохранены в _data/output/customers_clean.csv
