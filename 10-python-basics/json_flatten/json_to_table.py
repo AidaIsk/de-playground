@@ -46,6 +46,7 @@ def flatten_tasks(data: list) -> pd.DataFrame:
             ["employee", "projects", "projectName"],
             ["employee", "projects", "startDate"],
         ],
+        errors="ignore"
     )
 
     print("Таблица собрана.")
